@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+	font-family: Helvetica;
+	background-color: #d0ecf2;
+	color: #ad40aa;
+}
+h1 {
+	color: #9679b2;
+}
+hr {
+	width: 400px;
+}
+#slogan {
+	font-style: italic;
+}
